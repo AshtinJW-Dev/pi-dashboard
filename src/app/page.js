@@ -11,6 +11,7 @@ const projects = [
   { title: "Muncharoo", description: "Recipe sharing website", thumbnail: "/images/placeholder.png", icon: IoFastFoodOutline, link: "/muncharoo" },
   { title: "File Renamer", description: "A program that renames files based on moviedb data", thumbnail: "/images/placeholder.png", icon: TfiWrite, link: "/file" },
   { title: "Budgeting App", description: "Tracking Finances, Income & Expenses", thumbnail: "/images/placeholder.png", icon: GiCoins, link: "/budget" },
+  { title: "Trading Bot", description: "Automated trading bot", thumbnail: "/images/placeholder.png", icon: GiCoins, link: "/tradingbot" },
   { title: "Where To?", description: "An App that dulls data from google and tells you where is busy/a vibe", thumbnail: "/images/placeholder.png", icon: LuPartyPopper, link: "/where-to" },
   { title: "Weather App", description: "Tracking weather and trends", thumbnail: "/images/placeholder.png", icon: TiWeatherPartlySunny, link: "/weather" },
   { title: "Todo List", description: "tracking to dos and tasks", thumbnail: "/images/placeholder.png", icon: IoCheckboxOutline, link: "/todo" },
