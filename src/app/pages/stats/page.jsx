@@ -2,6 +2,7 @@ import { getSystemDetails } from "@/lib/system";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 
+//TODO:Add Storage stats for pi and Hardrive
 const SystemInfoItem = ({ label, value }) => (
   <div className="flex justify-between text-sm">
     <span className="text-muted-foreground">{label}:</span>
